@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * @author TODO: please add student ID and name here Try to write some comments
+ * @author B0544233 ³¯«aã¸ ¡Ahere Try to write some comments
  *         for your codes (methods, 15 points)
  */
 public class HW2 {
@@ -103,8 +103,8 @@ class Deck {
 		// TODO: please implement and reuse printCard method in Card class (5
 		// points)
 
-		for (Card allcard : cards) {
-			allcard.printCard();
+		for (Card allcards : cards) {
+			allcards.printCard();
 		}
 
 	}
